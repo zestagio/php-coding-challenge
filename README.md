@@ -16,6 +16,6 @@ username, password, etc. It was done just for quick installation and testing pur
 After execution `composer install` the application is ready. Go to homepage, 
 and you will see the publicly available swagger UI.
 
-As an anonymous user you are able to retrieve data. You can authorise using
+As an anonymous user you are able to retrieve data. You can receive a
 JWT token via `authentication_token` URL and use the received token to perform 
 POST and DELETE requests.
